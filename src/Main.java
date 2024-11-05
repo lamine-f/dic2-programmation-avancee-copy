@@ -1,7 +1,6 @@
 import geometry.Circle;
 import geometry.Point;
 
-//Hello toi
 public class Main {
     public static void main(String[] args) {
         Circle circle = new Circle(20, new Point(10, 20));
@@ -13,3 +12,79 @@ public class Main {
         System.out.print("** Deep copy    => "); System.out.println(circleCopiedDeeply.convertToString());
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//CBK <3

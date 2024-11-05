@@ -32,5 +32,4 @@ public class Circle {
                 ", center=" + center.convertToString() +
                 '}';
     }
-
 }
